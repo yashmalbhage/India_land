@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/India_land/static/css/main.c7630be8.css",
+    "main.js": "/India_land/static/js/main.ba281565.js",
+    "static/js/787.2b91112a.chunk.js": "/India_land/static/js/787.2b91112a.chunk.js",
+    "static/media/modern-business-center-hongkong.jpg": "/India_land/static/media/modern-business-center-hongkong.86db1bffe56f2ddaea67.jpg",
+    "static/media/chennai.png": "/India_land/static/media/chennai.a210e126366a5428c2ae.png",
+    "static/media/highstreet.png": "/India_land/static/media/highstreet.a210e126366a5428c2ae.png",
+    "static/media/magarpatta.png": "/India_land/static/media/magarpatta.a210e126366a5428c2ae.png",
+    "static/media/globaltechpark.png": "/India_land/static/media/globaltechpark.c11a47b28b8a3dc5bb37.png",
+    "static/media/coimbatore.png": "/India_land/static/media/coimbatore.c936da17cefd02838c6a.png",
+    "static/media/pexels-creapattern-2578326.jpg": "/India_land/static/media/pexels-creapattern-2578326.a07cfe324493cae536d5.jpg",
+    "static/media/chairperson.png": "/India_land/static/media/chairperson.7bca4cf392b97ec77f52.png",
+    "static/media/COO.png": "/India_land/static/media/COO.f306f8dc5a49be81c577.png",
+    "static/media/hero_2.jpg.webp": "/India_land/static/media/hero_2.jpg.eef71c3943439cc1d325.webp",
+    "static/media/CEO.png": "/India_land/static/media/CEO.902692328852dcfc9351.png",
+    "static/media/logo (2).png": "/India_land/static/media/logo (2).144144375b36fbaea786.png",
+    "static/media/logo.svg": "/India_land/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/scattered-forcefields.svg": "/India_land/static/media/scattered-forcefields.73ebed8abde9aa0649011d3cebe7dca8.svg",
+    "index.html": "/India_land/index.html",
+    "main.c7630be8.css.map": "/India_land/static/css/main.c7630be8.css.map",
+    "main.ba281565.js.map": "/India_land/static/js/main.ba281565.js.map",
+    "787.2b91112a.chunk.js.map": "/India_land/static/js/787.2b91112a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7630be8.css",
+    "static/js/main.ba281565.js"
+  ]
+}
